@@ -1,0 +1,13 @@
+SpeechRecognition
+pyttsx3
+openai
+pocketsphinx
+pyautogui
+gtts
+playsound
+pyaudio
+AppOpener
+grpcio-status==1.46.3
+grpcio==1.46.3
+google-api-python-client
+google-cloud-speech

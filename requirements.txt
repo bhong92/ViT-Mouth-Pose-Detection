@@ -1,0 +1,37 @@
+# For Lip Preprocessing/Deep Lip Reading
+tensorflow
+numpy
+av
+editdistance
+configargparse
+six
+moviepy==0.2.3.5
+opencv-python
+imageio-ffmpeg
+tensorflow_addons
+
+# For Speech Recognition/Syntax Checker
+SpeechRecognition
+pyautogui
+osascript
+fuzzywuzzy
+
+
+# For Eye Tracking
+omegaconf
+face-alignment
+fvcore
+pandas
+pyyaml
+scipy
+tensorboardX
+yacs
+mediapipe
+timm
+playsound==1.2.2
+ptgaze
+
+# Tongue Click
+pynput
+imutils
+scikit-learn
